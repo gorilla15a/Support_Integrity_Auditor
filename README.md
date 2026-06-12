@@ -361,3 +361,7 @@ Support Integrity Auditor successfully implements:
 5. Interactive Streamlit deployment.
 
 The final system achieves 91.75% accuracy and 0.9161 macro F1 score while maintaining strong recall across both classes, demonstrating reliable detection of priority mismatches in CRM ticketing systems.
+
+# Streamlit Deployed app
+
+Checkout the deployed website [Here](https://supportintegrityauditoransul23113029.streamlit.app/)
